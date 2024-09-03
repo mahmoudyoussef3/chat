@@ -13,19 +13,6 @@ This is a simple chat application built with Flutter and Firebase. The app provi
 - **Chat Screen**: The app includes a chat interface where users can view and send messages.
 - **Messaging**: The chat screen starts with zero messages and supports conversation with messages from different users.
 
-## Screenshots
-
-### 1. Sign-Up Screen
-![Sign-Up Screen](app_screens/signup_screen.jpg)
-
-### 2. Sign-In Screen
-![Sign-In Screen](app_screens/signin_screen.jpg)
-
-### 3. Chat Screen (No Messages)
-![Chat Screen - No Messages](app_screens/chat_screen_no_message.jpg)
-
-### 4. Chat Screen (With Messages)
-![Chat Screen - With Messages](app_screens/chat_screen_messages.jpg)
 
 
 ## Technology Stack
@@ -33,35 +20,6 @@ This is a simple chat application built with Flutter and Firebase. The app provi
 - **Flutter**: For building the cross-platform user interface.
 - **Firebase**: Used for backend services including authentication and real-time database.
 
-## Getting Started
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
 
-2. **Install dependencies**:
-    ```bash
-    flutter pub get
-    ```
 
-3. **Configure Firebase**:
-    - Set up Firebase for your Flutter app by following the [official documentation](https://firebase.flutter.dev/docs/overview).
-    - Add your Firebase project configurations in the app.
-
-4. **Run the application**:
-    ```bash
-    flutter run
-    ```
-
-## Contributing
-
-Feel free to contribute by submitting a pull request. Please make sure to follow the project's code style and include appropriate documentation.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this template further to match your project's specifics!
