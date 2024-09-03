@@ -1,6 +1,3 @@
-Here's a draft for your GitHub README file:
-
----
 
 # Flutter Chat Application
 
