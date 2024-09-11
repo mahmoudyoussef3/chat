@@ -13,6 +13,7 @@ This is a simple chat application built with Flutter and Firebase. The app provi
 ## Screenshots
 
 ### 1. Sign-Up Screen
+
 ![Sign-Up Screen](screenshots/signup_screen.png)
 
 ### 2. Sign-In Screen
