@@ -10,6 +10,19 @@ This is a simple chat application built with Flutter and Firebase. The app provi
 - **Chat Screen**: The app includes a chat interface where users can view and send messages.
 - **Messaging**: The chat screen starts with zero messages and supports conversation with messages from different users.
 
+## Screenshots
+
+### 1. Sign-Up Screen
+![Sign-Up Screen](screenshots/signup_screen.png)
+
+### 2. Sign-In Screen
+![Sign-In Screen](screenshots/signin_screen.png)
+
+### 3. Chat Screen (No Messages)
+![Chat Screen - No Messages](screenshots/chat_no_messages.png)
+
+### 4. Chat Screen (With Messages)
+![Chat Screen - With Messages](screenshots/chat_with_messages.png)
 
 
 ## Technology Stack
