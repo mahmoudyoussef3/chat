@@ -14,16 +14,16 @@ This is a simple chat application built with Flutter and Firebase. The app provi
 
 ### 1. Sign-Up Screen
 
-![Sign-Up Screen](screenshots/signup_screen.png)
+![Sign-Up Screen](screenahots/signup_screen.jpg)
 
 ### 2. Sign-In Screen
-![Sign-In Screen](screenshots/signin_screen.png)
+![Sign-In Screen](screenahots/signin_screen.jpg)
 
 ### 3. Chat Screen (No Messages)
-![Chat Screen - No Messages](screenshots/chat_no_messages.png)
+![Chat Screen - No Messages](screenahots/chat_screen_no_message.jpg)
 
 ### 4. Chat Screen (With Messages)
-![Chat Screen - With Messages](screenshots/chat_with_messages.png)
+![Chat Screen - With Messages](screenahots/chat_screen_messages.jpg)
 
 
 ## Technology Stack
